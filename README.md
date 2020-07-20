@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tanmoy Sen Gupta
 
-🌐 Visit my website at [www.tanmoysg.com](https://www.tanmoysg.com/)  |  🔍 Find me on LinkedIn at [@tanmoysg](https://www.linkedin.com/in/tanmoysg/)
+🌐 Visit my website at [www.tanmoysg.com](https://www.tanmoysg.com/)  |  🔍 Find me on LinkedIn at [@tanmoysg](https://www.linkedin.com/in/tanmoysg/)  |  📝 Check my blogs at [blog.tanmoysg.com](https://blog.tanmoysg.com/)
 
 Some of my projects are:
 

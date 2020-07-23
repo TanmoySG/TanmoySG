@@ -10,7 +10,7 @@ Some of my premier projects are:
 
 🔗 **[Universal Copier](https://github.com/TanmoySG/Universal-Copier-v2)** - Store all your links at one place. Live at [uc.tanmoysg.com](http://uc.tanmoysg.com) 
 
-Check out other projects on my [Github Repository](https://github.com/TanmoySG?tab=repositories) .
+Check out other projects on my [repositories](https://github.com/TanmoySG?tab=repositories) .
 
 <!--
 **TanmoySG/TanmoySG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

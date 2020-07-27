@@ -8,7 +8,7 @@ Some of my premier projects are:
 
 ⚕ **[Medical Legacy Directory](https://github.com/TanmoySG/MedicalRecordsDirectory)** - Medical Data at your fingertips. 
 
-🔗 **[Universal Copier](https://github.com/TanmoySG/Universal-Copier-v2)** - Store all your links at one place. Live at [uc.tanmoysg.com](http://uc.tanmoysg.com) 
+🔗 **[Universal Copier](https://github.com/TanmoySG/Universal-Copier-v2)** - Store all your links at one place. <!--Live at [uc.tanmoysg.com](http://uc.tanmoysg.com) -->
 
 Check out other projects on my [repositories](https://github.com/TanmoySG?tab=repositories) .
 

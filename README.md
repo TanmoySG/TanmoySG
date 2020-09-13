@@ -6,9 +6,9 @@ Some of my premier projects are:
 
 🕵🏼‍♂️ **[Mycroft](https://github.com/TanmoySG/Mycroft)** - An encryption service. Try it out at [mycroft.tanmoysg.com](http://mycroft.tanmoysg.com) .
 
-⚕ **[Medical Legacy Directory](https://github.com/TanmoySG/MedicalRecordsDirectory)** - Medical Data at your fingertips. 
+⚕ **[Medical Legacy Directory](https://github.com/TanmoySG/MedicalRecordsDirectory)** - Medical Data at your fingertips. Live at [mld.tanmoysg.com](http://mld.tanmoysg.com)
 
-🔗 **[Universal Copier](https://github.com/TanmoySG/Universal-Copier-v2)** - Store all your links at one place. <!--Live at [uc.tanmoysg.com](http://uc.tanmoysg.com) -->
+🔗 **[Universal Copier](https://github.com/TanmoySG/Universal-Copier-v2)** - Store all your links at one place. Live at [uc.tanmoysg.com](http://uc.tanmoysg.com)
 
 👨🏼‍💻 Currently working on **[wunderDB](https://github.com/TanmoySG/wunderDB)**, a JSON-based Document DB inspired by MongoDB. Deployed at [wdb.tanmoysg.com](https://wdb.tanmoysg.com/) .
 

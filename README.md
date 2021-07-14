@@ -12,7 +12,7 @@ Some of my premier projects are:
 
 :computer: **[wunderDB](https://github.com/TanmoySG/wunderDB)**, a JSON-based Document DB inspired by MongoDB. Deployed at [wdb.tanmoysg.com](https://wdb.tanmoysg.com/) .
 
-👨🏼‍💻 Currently working on my Final Year Project on **[Hybrid Cryptography](https://github.com/TanmoySG/hybrid-cryptography)**.
+👨🏼‍💻 Currently working on my Final Year Project on **[wunderDash](https://github.com/TanmoySG/wunderDash)** for [wunderDB](https://github.com/TanmoySG/wunderDB).
 
 Check out other projects on my [repositories](https://github.com/TanmoySG?tab=repositories) .
 

@@ -16,6 +16,8 @@ Some of my premier projects are:
 
 Check out other projects on my [repositories](https://github.com/TanmoySG?tab=repositories) .
 
+![](https://www.codewars.com/users/TanmoySG/badges/micro)
+
 <!--
 **TanmoySG/TanmoySG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,10 +4,6 @@
 
 Some of my premier projects are:
 
-🕵🏼‍♂️ **[Mycroft](https://github.com/TanmoySG/Mycroft)** - An encryption service. Try it out at [mycroft.tanmoysg.com](http://mycroft.tanmoysg.com) .
-
-⚕ **[Medical Legacy Directory](https://github.com/TanmoySG/MedicalRecordsDirectory)** - Medical Data at your fingertips. Live at [mld.tanmoysg.com](http://mld.tanmoysg.com)
-
 :computer: **[wunderDB](https://github.com/TanmoySG/wunderDB)**, a JSON-based Document DB inspired by MongoDB. Deployed at [wdb.tanmoysg.com](https://wdb.tanmoysg.com/) .
 
 :computer: **[Flinit](https://github.com/TanmoySG/flinit)**, a CLI Tool to setup Python-Flask Projects.

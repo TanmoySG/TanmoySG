@@ -8,6 +8,8 @@ Some of my premier projects are:
 
 :computer: **[Flinit](https://github.com/TanmoySG/flinit)**, a CLI Tool to setup Python-Flask Projects.
 
+:computer: **[configPy](https://github.com/TanmoySG/configPy)**, a tiny Configuration File Parser Library for Python Projects.
+
 👨🏼‍💻 Currently working on **[wunderIdentityProvider](https://github.com/TanmoySG/wunder-identity-provider)**, Identity Management for wunderDB and other services.
 
 <!--

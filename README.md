@@ -10,11 +10,13 @@
 🥼 I'm 
 -->
 
-#### Some of my premier projects are:
+#### Chekout some of my premier projects
 
 :computer: **[wunderDB](https://github.com/TanmoySG/wunderDB)**, a JSON-based Document DB inspired by MongoDB. Deployed at [wdb.tanmoysg.com](https://wdb.tanmoysg.com/) .
 
+<!--
 :computer: **[Flinit](https://github.com/TanmoySG/flinit)**, a CLI Tool to setup Python-Flask Projects.
+-->
 
 :computer: **[configPy](https://github.com/TanmoySG/configPy)**, a tiny Configuration File Parser Library for Python Projects.
 

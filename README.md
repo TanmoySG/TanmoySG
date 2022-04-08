@@ -2,7 +2,11 @@
 
 🌐 Visit my website at [tanmoysg.com](https://www.tanmoysg.com/)  |  🔍 Find me on LinkedIn at [@tanmoysg](https://www.linkedin.com/in/tanmoysg/)  |  📝 Read my blogs at [blog.tanmoysg.com](https://blog.tanmoysg.com/)<!--   |  🥼 Find my research work at [tanmoysg.me](https://www.tanmoysg.me/) -->
 
-Some of my premier projects are:
+
+🌱 I’m currently learning [Golang](https://github.com/TanmoySG/learning-golang), [Docker](https://github.com/TanmoySG/dockerize-flask-test) and Kubernetes, yes, parallelly 👀.
+
+
+#### Some of my premier projects are:
 
 :computer: **[wunderDB](https://github.com/TanmoySG/wunderDB)**, a JSON-based Document DB inspired by MongoDB. Deployed at [wdb.tanmoysg.com](https://wdb.tanmoysg.com/) .
 

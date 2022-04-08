@@ -17,9 +17,17 @@ Some of my premier projects are:
 -->
 Check out other projects on my [repositories](https://github.com/TanmoySG?tab=repositories) .
 
-![](https://www.codewars.com/users/TanmoySG/badges/micro)
+
+### Here are some Guides and Packages That I Track and wish to use!
+
+- [Guides to Refer](https://github.com/TanmoySG/TanmoySG/issues/1)
+- [Packages I can Use](https://github.com/TanmoySG/TanmoySG/issues/2)
+
+These are tracked using GitHub Issues for this ✨ _special_ ✨ repository, to keep them handy!
 
 <!--
+![](https://www.codewars.com/users/TanmoySG/badges/micro)
+
 **TanmoySG/TanmoySG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

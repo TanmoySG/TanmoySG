@@ -20,8 +20,8 @@ Check out other projects on my [repositories](https://github.com/TanmoySG?tab=re
 
 ### Here are some Guides and Packages That I Track and wish to use!
 
-- [Guides to Refer](https://github.com/TanmoySG/TanmoySG/issues/1)
-- [Packages I can Use](https://github.com/TanmoySG/TanmoySG/issues/2)
+- [Guides to Refer](https://github.com/TanmoySG/TanmoySG/issues/2)
+- [Packages I can Use](https://github.com/TanmoySG/TanmoySG/issues/1)
 
 These are tracked using GitHub Issues for this ✨ _special_ ✨ repository, to keep them handy!
 

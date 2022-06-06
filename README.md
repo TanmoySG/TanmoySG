@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Tanmoy Sen Gupta
 
-🌐 Visit my website at [tanmoysg.com](https://www.tanmoysg.com/)  |  🔍 Find me on LinkedIn at [@tanmoysg](https://www.linkedin.com/in/tanmoysg/)  |  📝 Read my blogs at [blog.tanmoysg.com](https://blog.tanmoysg.com/)<!--   |  🥼 Find my research work at [tanmoysg.me](https://www.tanmoysg.me/) -->
+🌐 Visit my website at [tanmoysg.com](https://www.tanmoysg.com/)  |  🔍 Find me on LinkedIn at [@tanmoysg](https://www.linkedin.com/in/tanmoysg/)  |  📝 Read my blogs at [blog.tanmoysg.com](https://blog.tanmoysg.com/) <!--   |  🥼 Find my research work at [tanmoysg.me](https://www.tanmoysg.me/) -->
 
 #### About Me
 
 🌱 I’m currently learning [Golang](https://github.com/TanmoySG/learning-golang), [Docker](https://github.com/TanmoySG/dockerize-flask-test) and Kubernetes, yes, parallelly 👀.
+
+📝 Here's my [Resume](https://github.com/TanmoySG/TanmoySG/blob/master/Resume_Tanmoy_Sen_Gupta_050622%20(1).pdf)
 
 <!--
 🥼 I'm 
@@ -33,7 +35,7 @@ Check out other projects on my [repositories](https://github.com/TanmoySG?tab=re
 - [Guides to Refer](https://github.com/TanmoySG/TanmoySG/issues/2)
 - [Packages I can Use](https://github.com/TanmoySG/TanmoySG/issues/1)
 
-These are tracked using GitHub Issues for this ✨ _special_ ✨ repository, to keep them handy!
+These are tracked using GitHub Issues for this ✨ _special_ ✨ repository, to keep them handy! These might interest you as well. 
 
 <!--
 ![](https://www.codewars.com/users/TanmoySG/badges/micro)

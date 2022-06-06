@@ -20,7 +20,7 @@
 
 :computer: **[configPy](https://github.com/TanmoySG/configPy)**, a tiny Configuration File Parser Library for Python Projects.
 
-👨🏼‍💻 Currently working on **[wunderIdentityProvider](https://github.com/TanmoySG/wunder-identity-provider)**, Identity Management for wunderDB and other services.
+👨🏼‍💻 Currently working on **[logsmith-monitor](https://github.com/TanmoySG/logsmith-monitor)**, a A centralized log monitoring server.
 
 <!--
 👨🏼‍💻 Currently working on **[wunderDash](https://github.com/TanmoySG/wunderDash)** for [wunderDB](https://github.com/TanmoySG/wunderDB).

@@ -14,6 +14,6 @@ which code
 brew install go
 which go
 
-# Setup Node
+# Setup NodeJS
 brew install node
 which node

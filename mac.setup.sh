@@ -13,3 +13,7 @@ which code
 # Setup Go
 brew install go
 which go
+
+# Setup Node
+brew install node
+which node

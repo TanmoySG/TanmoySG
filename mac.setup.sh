@@ -1,23 +1,51 @@
 # My macOS setup for local development
 
-# Setup brew
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> $HOME/.zprofile
-eval "$(/opt/homebrew/bin/brew shellenv)"
-which brew
+# Installs HomeBrew
+if ! [ -x "$(command -v brew)" ]; then
+    echo 'Installing Brew' >&2
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> $HOME/.zprofile
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+else
+    echo 'Brew Already Installed!'
+fi 
 
-# Setup Git
-brew install git
-which git
+# Installs Git
+if ! [ -x "$(command -v git)" ]; then
+    echo 'Installing Git' >&2
+    brew install git
+else
+    echo 'Git Already Installed!'
+fi 
 
-# Setup VS Code
-brew install --cask visual-studio-code
-which code
+# Installs VS Code
+if ! [ -x "$(command -v code)" ]; then
+    echo 'Installing VS Code' >&2
+    brew install --cask visual-studio-code
+else
+    echo 'VS Code Already Installed!'
+fi
 
-# Setup Go
-brew install go
-which go
+# Installs Python3
+if ! [ -x "$(command -v python)" ] && ! [ -x "$(command -v python3)" ] ; then
+    echo 'Installing Python' >&2
+    brew install python
+else
+    echo 'Python Already Installed!'
+fi 
 
-# Setup NodeJS
-brew install node
-which node
+# Installs NodeJS
+if ! [ -x "$(command -v node)" ]; then
+    echo 'Installing NodeJS' >&2
+    brew install node
+else
+    echo 'NodeJS Already Installed!'
+fi 
+
+# Installs Golang
+if ! [ -x "$(command -v go)" ]; then
+    echo 'Installing GoLang' >&2
+    brew install go
+else
+    echo 'GoLang Already Installed!'
+fi 

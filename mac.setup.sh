@@ -6,6 +6,10 @@ echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> $HOME/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 which brew
 
+# Setup Git
+brew install git
+which git
+
 # Setup VS Code
 brew install --cask visual-studio-code
 which code

@@ -49,3 +49,11 @@ if ! [ -x "$(command -v go)" ]; then
 else
     echo 'GoLang Already Installed!'
 fi 
+
+# Installs Oh-My-Zsh
+if ! [ -x "$(command -v omz)" ]; then
+    echo 'Installing Oh-My-Zsh' >&2
+    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+else
+    echo 'OMZ Already Installed!'
+fi 

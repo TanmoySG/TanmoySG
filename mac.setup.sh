@@ -57,3 +57,12 @@ if ! [ -x "$(command -v omz)" ]; then
 else
     echo 'OMZ Already Installed!'
 fi 
+
+
+# Installs jq
+if ! [ -x "$(command -v jq)" ]; then
+    echo 'Installing jq' >&2
+    brew install jq
+else
+    echo 'jq Already Installed!'
+fi 

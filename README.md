@@ -4,8 +4,10 @@
 
 #### About Me
 
-🌱 I’m currently learning [Golang](https://github.com/TanmoySG/learning-golang), [Docker](https://github.com/TanmoySG/dockerize-flask-test) and Kubernetes, yes, parallelly 👀. Here's my [📄 Resume](https://github.com/TanmoySG/TanmoySG/blob/master/Resume_Tanmoy_Sen_Gupta_050622%20(1).pdf).
+<!-- 🌱 I’m currently learning [Golang](https://github.com/TanmoySG/learning-golang), [Docker](https://github.com/TanmoySG/dockerize-flask-test) and Kubernetes, yes, parallelly 👀. Here's my [📄 Resume](https://github.com/TanmoySG/TanmoySG/blob/master/Resume_Tanmoy_Sen_Gupta_050622%20(1).pdf). -->
 
+🌱  Here's my [📄 Resume](https://github.com/TanmoySG/TanmoySG/blob/master/Resume_Tanmoy_Sen_Gupta_050622%20(1).pdf).
+ 
 <!--
 🥼 I'm 
 -->

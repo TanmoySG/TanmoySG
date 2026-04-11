@@ -6,7 +6,7 @@
 
 <!-- 🌱 I’m currently learning [Golang](https://github.com/TanmoySG/learning-golang), [Docker](https://github.com/TanmoySG/dockerize-flask-test) and Kubernetes, yes, parallelly 👀. Here's my [📄 Resume](https://github.com/TanmoySG/TanmoySG/blob/master/Resume_Tanmoy_Sen_Gupta_050622%20(1).pdf). -->
 
-🌱  Here's my [📄 Resume](https://github.com/TanmoySG/TanmoySG/blob/master/Resume_Tanmoy_Sen_Gupta_050622%20(1).pdf).
+🌱  Here's my [📄 Resume](https://github.com/TanmoySG/resume/blob/main/resume.pdf).
  
 <!--
 🥼 I'm 
@@ -17,13 +17,14 @@
 :computer: **[wunderDB](https://github.com/TanmoySG/wunderDB)**, a JSON-based Document DB inspired by MongoDB. Deployed at [wdb.tanmoysg.com](https://wdb.tanmoysg.com/) .
 
 
-:cloud: **[K-Deploy Action](https://github.com/marketplace/actions/kubernetes-deployment)**, a GitHub Action to Deploy Pods on Kubernetes.
+:cloud: **[GoSteps](https://github.com/TanmoySG/go-steps)**, a go library that helps in running functions as steps and reminds you to step out and get active (kidding!).
 
 <!--
 :computer: **[configPy](https://github.com/TanmoySG/configPy)**, a tiny Configuration File Parser Library for Python Projects.
 -->
+<!--
 👨🏼‍💻 Currently working on **[logsmith-monitor](https://github.com/TanmoySG/logsmith-monitor)**, a A centralized log monitoring server.
-
+-->
 <!--
 👨🏼‍💻 Currently working on **[wunderDash](https://github.com/TanmoySG/wunderDash)** for [wunderDB](https://github.com/TanmoySG/wunderDB).
 -->

@@ -7,7 +7,7 @@
       "description": "Developed and maintained a data platform for healthcare analytics. Implemented access provisioning systems to ensure secure data access. Collaborated with cross-functional teams to deliver high-quality software solutions."
     }
   ],
-  "projects" : [
+  "projects": [
     {
       "title": "wunderDB 2.0",
       "text": "wunderDb is a JSON-based in-memory Data Store.",
@@ -42,6 +42,47 @@
         { "label": "GitHub", "url": "https://github.com/TanmoySG/bhavcopy-scraper" },
         { "label": "Demo", "url": "https://utils.tanmoysg.com/bhavcopy/" }
       ]
+    }
+  ],
+  "skills": [
+    "NodeJS",
+    "Javascript",
+    "Typescript",
+    "C/C++",
+    "Golang",
+    "Python",
+    "JavaScript",
+    "Java",
+    "React.js",
+    "GraphQL",
+    "Kubernetes",
+    "Docker",
+    "Azure",
+    "Kafka",
+    "Snowflake",
+    "GitHub Actions",
+    "Shell Scripting",
+    "Google Cloud Platform",
+    "SQL",
+    "Cryptography"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "specialization": "Computer Science and Engineering",
+      "institution": "SRM Institute of Science and Technology",
+      "duration": "2017 - 2021"
+    },
+    {
+      "degree": "AISSCE (CBSE/Class 12)",
+      "specialization": "Science",
+      "institution": "South Point School, Guwahati",
+      "duration": "2017"
+    },
+    {
+      "degree": "AISSE (CBSE/Class 10)",
+      "institution": "South Point School, Guwahati",
+      "duration": "2015"
     }
   ]
 }

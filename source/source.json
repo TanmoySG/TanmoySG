@@ -1,37 +1,39 @@
-[
-  {
-    "title": "wunderDB 2.0",
-    "text": "wunderDb is a JSON-based in-memory Data Store.",
-    "stack": "GoLang, Docker, Shell Scripting, Python",
-    "links": [
-      { "label": "GitHub", "url": "https://github.com/TanmoySG/wunderDB" },
-      { "label": "Demo", "url": "https://wdb.tanmoysg.com/" }
-    ]
-  },
-  {
-    "title": "GoSteps - a Go library",
-    "text": "GoSteps is a go library that helps in running functions as steps. The idea behind gosteps is to define set of functions as chain-of-steps and execute them in a sequential fashion.",
-    "stack": "GoLang, Shell Scripting",
-    "links": [
-      { "label": "GitHub", "url": "https://github.com/TanmoySG/go-steps" }
-    ]
-  },
-  {
-    "title": "hyENC3 - Advanced Data Security",
-    "text": "Advanced-Data Security using multiple cryptographic algorithms over multiple layers and secured key sharing.",
-    "stack": "Python, Flask, JavaScript, HTML, CSS",
-    "links": [
-      { "label": "Research Paper", "url": "https://www.irjet.net/archives/V8/i8/IRJET-V8I8428.pdf" },
-      { "label": "GitHub", "url": "https://github.com/TanmoySG/hyENC3" }
-    ]
-  },
-  {
-    "title": "Bhavcopy Scrapper",
-    "text": "A simple web scrapper to fetch the daily bhavcopy from NSE and store it in a local file.",
-    "stack": "Python, HTML",
-    "links": [
-      { "label": "GitHub", "url": "https://github.com/TanmoySG/bhavcopy-scraper" },
-      { "label": "Demo", "url": "https://utils.tanmoysg.com/bhavcopy/" }
-    ]
-  }
-]
+{
+  "projects" : [
+    {
+      "title": "wunderDB 2.0",
+      "text": "wunderDb is a JSON-based in-memory Data Store.",
+      "stack": "GoLang, Docker, Shell Scripting, Python",
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/TanmoySG/wunderDB" },
+        { "label": "Demo", "url": "https://wdb.tanmoysg.com/" }
+      ]
+    },
+    {
+      "title": "GoSteps - a Go library",
+      "text": "GoSteps is a go library that helps in running functions as steps. The idea behind gosteps is to define set of functions as chain-of-steps and execute them in a sequential fashion.",
+      "stack": "GoLang, Shell Scripting",
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/TanmoySG/go-steps" }
+      ]
+    },
+    {
+      "title": "hyENC3 - Advanced Data Security",
+      "text": "Advanced-Data Security using multiple cryptographic algorithms over multiple layers and secured key sharing.",
+      "stack": "Python, Flask, JavaScript, HTML, CSS",
+      "links": [
+        { "label": "Research Paper", "url": "https://www.irjet.net/archives/V8/i8/IRJET-V8I8428.pdf" },
+        { "label": "GitHub", "url": "https://github.com/TanmoySG/hyENC3" }
+      ]
+    },
+    {
+      "title": "Bhavcopy Scrapper",
+      "text": "A simple web scrapper to fetch the daily bhavcopy from NSE and store it in a local file.",
+      "stack": "Python, HTML",
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/TanmoySG/bhavcopy-scraper" },
+        { "label": "Demo", "url": "https://utils.tanmoysg.com/bhavcopy/" }
+      ]
+    }
+  ]
+}

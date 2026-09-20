@@ -1,4 +1,12 @@
 {
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Optum",
+      "duration": "June 2022 - Present",
+      "description": "Developed and maintained a data platform for healthcare analytics. Implemented access provisioning systems to ensure secure data access. Collaborated with cross-functional teams to deliver high-quality software solutions."
+    }
+  ],
   "projects" : [
     {
       "title": "wunderDB 2.0",
